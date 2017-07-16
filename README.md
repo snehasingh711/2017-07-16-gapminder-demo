@@ -2,3 +2,5 @@
 Demo repository for leaning git with gapminder data
 
 Code from a Software Carpentry workshop held at UCSF on July 15th and 16th, 2017
+
+We can also add text from our local machines
